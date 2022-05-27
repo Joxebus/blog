@@ -2,7 +2,6 @@
 title: "Joxebus's Blog"
 author: "Omar Bautista"
 description: "This is a tech blog from https://joxebus.github.io"
-baseurl: /blog
 email: "joxebus@gmail.com"
 twitter_username: "joxebus"
 github_username: "joxebus"
@@ -29,3 +28,5 @@ defaults:
       - groovy
       - java
       - programming
+site:
+  baseurl: https://joxebus.github.io/blog
