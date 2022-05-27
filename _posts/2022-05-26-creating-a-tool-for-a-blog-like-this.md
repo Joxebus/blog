@@ -1,6 +1,6 @@
 ## Creating a tool for a blog like this 
 
-![blog-groovy-script](/blog/assets/img/blog_script.png)
+![blog-groovy-script](/blog/assets/img/2022/blog_script.png)
 
 Recently I was thinking about creating a blog for my site on [Github](https://joxebus.github.io)
 I've already had 2 blogs, one is hosted on Medium and the other on Wordpress, the thing is that
