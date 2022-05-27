@@ -23,3 +23,9 @@ defaults:
     type: "post"
   values:
     tags: "Other"
+analytics :
+  provider : google
+  google :
+    tracking_id : 'G-JETEGTR3HG'
+  getclicky :
+    site_id :
