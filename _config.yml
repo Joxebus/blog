@@ -22,10 +22,9 @@ defaults:
     path: ""
     type: "post"
   values:
-    tags: "Other"
-analytics :
-  provider : google
-  google :
-    tracking_id : 'G-JETEGTR3HG'
-  getclicky :
-    site_id :
+    tags:
+      - tech
+      - technology
+      - groovy
+      - java
+      - programming
