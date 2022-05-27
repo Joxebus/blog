@@ -6,7 +6,7 @@ tags:
 
 ## ¿Qué es Groovy?
 
-[![Que es Groovy](/blog/img/2022/que_es_groovy.png "que-es-groovy")](/blog/img/2022/que_es_groovy.png)
+[![Que es Groovy](/blog/assets/img/2022/que_es_groovy.png "que-es-groovy")](/blog/assets/img/2022/que_es_groovy.png)
 
 Hay algo que es bien cierto y no lo voy a negar, nada cómo la información de primera mano, con esto me refiero a que por lo regular la buena documentación o información en cuestiones de programación es en inglés, en esta ocasión trataré de hacer un tuto al estilo spanglish donde todos y cada uno podamos entender de lo que hablamos con la menor perdida de información y conceptos relevantes. ¡Trataré!
 
@@ -47,7 +47,7 @@ Groovy Version: 3.0.6 JVM: 16.0.2 Vendor: GraalVM Community OS: Mac OS X
 ```
 
 
-[![Groovy Version](/blog/img/2022/groovy_version.png "cmd-groovy-version")](/blog/img/2022/groovy_version.png)
+[![Groovy Version](/blog/assets/img/2022/groovy_version.png "cmd-groovy-version")](/blog/assets/img/2022/groovy_version.png)
 
 Lo cual representa respectivamente nuestra versión de Groovy y de la JVM que tenemos instalada. Ahora que si al ejecutar el comando nos manda algun error de que el comando no es reconocido probablemente es porque no tenemos bien configuradas las "variables de entorno..." para ello tendremos que seguir los siguientes pasos.
 
