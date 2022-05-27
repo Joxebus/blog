@@ -1,5 +1,7 @@
 ## Creating a tool for a blog like this 
 
+![blog-groovy-script](/assets/img/blog_groovy.png)
+
 Recently I was thinking about creating a blog for my site on [Github](https://joxebus.github.io)
 I've already had 2 blogs, one is hosted on Medium and the other on Wordpress, the thing is that
 I want to collect everything in a single place, so I find out this site where they explain [how to
