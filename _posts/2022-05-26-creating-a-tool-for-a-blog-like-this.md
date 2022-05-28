@@ -1,9 +1,11 @@
 ---
-tags:
-  - "github pages"
-  - "free blog"
-  - "jekyll"
-  - "programming"
+title:      "Creating a tool for a blog like this"
+subtitle:   "Recently I was thinking about creating a blog for my site on Github"
+date:       2022-05-26 19:00
+author:     "Omar Bautista"
+header-img: "/blog/assets/img/2022/blog_script.png"
+category:   techblog
+tags:       [github pages, blog, joxebus, programming, groovylang, freeblog, jekyll]
 ---
 
 ## Creating a tool for a blog like this 
