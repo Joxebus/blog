@@ -1,3 +1,11 @@
+---
+tags:
+  - "github pages"
+  - "free blog"
+  - "jekyll"
+  - "programming"
+---
+
 ## Creating a tool for a blog like this 
 
 ![blog-groovy-script](/blog/assets/img/2022/blog_script.png)
