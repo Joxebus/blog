@@ -3,14 +3,14 @@ title:      "What is Groovy Lang?"
 subtitle:   "Groovy is an optional typed language designed to compile to bytecode compatible with the JVM"
 date:       2022-05-27 19:50
 author:     "Omar Bautista"
-header-img: "/blog/assets/img/2022/que_es_groovy.png"
+header-img: "/blog/assets/img/2022/what_is_groovy.png"
 category:   techblog
 tags:       [groovy, groovylang, programming, joxebus, jvm, java]
 ---
 
 ## What is Groovy lang?
 
-[![What is groovy lang](/blog/assets/img/2022/que_es_groovy.png "que-es-groovy")](/blog/assets/img/2022/que_es_groovy.png)
+[![What is groovy lang](/blog/assets/img/2022/what_is_groovy.png "What is Groovy")](/blog/assets/img/2022/what_is_groovy.png)
 
 There is something that is very true, and I am not going to deny it, nothing like first-hand information, 
 by this I mean that good documentation or information on programming issues is usually in English, 
