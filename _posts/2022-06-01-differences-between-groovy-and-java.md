@@ -123,6 +123,21 @@ String name = (person.getName() != null) ? person.getName() : "<unknown>"
 String name = person.getName() ?: "<unknown>" // Groovy truth
 ```
 
+#### *. (The Spread-Dot Operator)
+
+Use:
+```shell
+<collection>*.<property>
+```
+
+Example:
+```groovy
+List names = people*.getName()
+
+List names = people*.name
+```
+
+
 ##### `<=>` _(Spaceship)_
 
 This operator returns a value of (1,0,-1) depending on whether it is greater(<), equal(=) or less(>) and is used to compare two objects with each other, just like the equals() method of the Object class that all objects have but I show them with an example:
