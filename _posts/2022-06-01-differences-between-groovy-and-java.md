@@ -123,7 +123,7 @@ String name = (person.getName() != null) ? person.getName() : "<unknown>"
 String name = person.getName() ?: "<unknown>" // Groovy truth
 ```
 
-#### *. (The Spread-Dot Operator)
+#### `*.` (The Spread-Dot Operator)
 
 Use:
 ```shell
