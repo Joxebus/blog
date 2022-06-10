@@ -95,7 +95,7 @@ There are different ways to declare a `String` with Groovy:
 - `''`: produces normal String **not a `char` or `Character`**
 - `""`: produces normal String but allow String interpolation as in the sample by using the `$` dollar sign
 - `''' Something here '''`: multiline String
-- `''' Something here '''`: multiline String with interpolation allowed
+- `""" Something here """`: multiline String with interpolation allowed
 
 **Note:** All the Strings that uses interpolation are assigned as `groovy.lang.GString`
 
